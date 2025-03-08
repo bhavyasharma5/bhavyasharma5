@@ -4,7 +4,7 @@ I'm a full-stack developer from India. 🇮🇳
 
 ## About Me
 
-I am passionate about software development and creating impactful projects. I enjoy working on various technologies and constantly learning new skills to enhance my development capabilities. I am currently pursuing my degree in Information Technology at Manipal University Jaipur.
+I am a dedicated and hardworking software developer who enjoys building innovative solutions and continuously improving my skills. I am currently pursuing my degree in Information Technology at Manipal University Jaipur.
 I'm dedicated to writing clean, maintainable code and building applications that deliver exceptional user experiences. 
 
 ## My Projects
@@ -39,6 +39,7 @@ I'm currently focusing on improving my full-stack development skills and explori
 
 - GitHub: [@bhavyasharma5](https://github.com/bhavyasharma5)
 - Email: [sharmabhavya5d@gmail.com]
+- LinkedIn: [Bhavya Sharma](https://www.linkedin.com/in/bhavya-sharma-67101a2b1)
 
 
 Feel free to explore my repositories and don't hesitate to contact me if you have any questions or would like to connect. 
