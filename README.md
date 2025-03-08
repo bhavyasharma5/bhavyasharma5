@@ -4,8 +4,8 @@ I'm a full-stack developer from India. 🇮🇳
 
 ## About Me
 
-I am a dedicated and hardworking software developer who enjoys building innovative solutions and continuously improving my skills. I am currently pursuing my degree in Information Technology at Manipal University Jaipur.
-I'm dedicated to writing clean, maintainable code and building applications that deliver exceptional user experiences. 
+I am a dedicated and hardworking software developer who enjoys building innovative solutions and continuously improving my skills. I am currently pursuing my degree in Information Technology at Manipal University Jaipur. I focus on solving real-world problems through software development and continuously improving my skills by working on diverse projects.
+I have built various projects in web development, exploring technologies like React.js, Node.js, and databases. I am always eager to learn new technologies and enhance my understanding of scalable and efficient software solutions. My goal is to build impactful applications that solve real-world challenges
 
 ## My Projects
 
