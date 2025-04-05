@@ -11,6 +11,7 @@ I have built various projects in web development, exploring technologies like Re
 
 Here are some of the projects I've worked on:
 
+* **[JobTrail](https://github.com/bhavyasharma5/JobTrail)** - A comprehensive job tracking application designed to help job seekers organize their job search process.
 * **[WiseWords](https://github.com/bhavyasharma5/WiseWords)** - A platform for sharing inspirational quotes and wisdom
 * **[Skycast](https://github.com/bhavyasharma5/Skycast)** - A weather forecasting application with modern UI
 * **[Sorting-Visualizer](https://github.com/bhavyasharma5/Sorting-Visualizer)** - Interactive tool to visualize different sorting algorithms
